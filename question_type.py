@@ -10,7 +10,7 @@ MAX_RETRIES = 3                        # 最大重试次数
 SLEEP_BETWEEN_CALLS = 1                # 每次请求间隔（秒）
 # =================================
 
-client = OpenAI(api_key="sk-yfNHpkcCGO3UKGN_771W3hUKJ0w3R3vu5raJlw_MEHBxOGjzOLfU_eTkMrk", base_url="https://api.uniapi.io/v1")
+client = OpenAI(api_key="xxx", base_url="xxx")
 
 
 # ---------- 分类Prompt ----------
